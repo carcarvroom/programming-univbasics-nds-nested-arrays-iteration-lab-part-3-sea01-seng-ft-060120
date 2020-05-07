@@ -1,6 +1,5 @@
 def join_nested_strings(src)
-  if src == nil
-    return nil
+ 
     
   new_string = ""
   row_index = 0
