@@ -1,5 +1,6 @@
 def join_nested_strings(src)
- 
+ if src.length == 0
+   return "The array is empty"
     
   new_string = ""
   row_index = 0
